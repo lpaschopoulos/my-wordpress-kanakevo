@@ -1,0 +1,464 @@
+0000.001 (0) Opened log file at time: Fri, 25 Sep 2020 15:55:47 +0000 on http://kanakevo.local
+0000.024 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.3.5 (cgi-fcgi, Windows NT DESKTOP-HSI8EG5 10.0 build 18363 (Windows 10) AMD64) MySQL: 8.0.16 WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.3M | 4M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.045 (0) Free space on disk containing Updraft's temporary directory: 400502.3 MB
+0000.088 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.178 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.266 (0) Set semaphore last lock (fd) time to 2020-09-25 15:55:47
+0000.288 (0) Semaphore lock (fd) complete
+0000.366 (0) Backup run: resumption=0, nonce=e0df128172ac, file_nonce=e0df128172ac begun at=1601049347 (0s ago), job type=backup
+0000.411 (0) Scheduling a resumption (1) after 300 seconds (1601049647) in case this run gets aborted
+0000.701 (0) Checking if we have a zip executable available
+0000.842 (0) Creation of backups of directories: beginning
+0000.952 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0008.050 (0) Total entities for the zip file: 1330 directories, 7174 files (0 skipped as non-modified), 107.6 MB
+0008.115 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0010.836 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 72 (73) files added so far); re-opening (prior size: 252.3 KB)
+0011.919 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 100 files added (on-disk size: 388.8 KB)
+0013.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 31 (104) files added so far); re-opening (prior size: 388.8 KB)
+0016.815 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 96 (200) files added so far); re-opening (prior size: 486.3 KB)
+0017.194 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 200 files added (on-disk size: 659.6 KB)
+0019.837 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 87 (287) files added so far); re-opening (prior size: 659.6 KB)
+0020.997 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 300 files added (on-disk size: 903.3 KB)
+0022.896 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 54 (341) files added so far); re-opening (prior size: 903.3 KB)
+0025.912 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 11 (352) files added so far); re-opening (prior size: 1810.9 KB)
+0028.843 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 37 (389) files added so far); re-opening (prior size: 2456.3 KB)
+0030.202 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 400 files added (on-disk size: 3368 KB)
+0031.834 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 36 (425) files added so far); re-opening (prior size: 3368 KB)
+0035.824 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 45 (470) files added so far); re-opening (prior size: 4705.7 KB)
+0037.138 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 500 files added (on-disk size: 5563.1 KB)
+0038.833 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 93 (563) files added so far); re-opening (prior size: 5563.1 KB)
+0041.539 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 600 files added (on-disk size: 5684.5 KB)
+0042.840 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 79 (642) files added so far); re-opening (prior size: 5684.5 KB)
+0045.875 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 52 (694) files added so far); re-opening (prior size: 5798.8 KB)
+0046.478 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 700 files added (on-disk size: 5871.6 KB)
+0050.083 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 59 (753) files added so far); re-opening (prior size: 5871.6 KB)
+0052.643 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 800 files added (on-disk size: 6045.9 KB)
+0053.874 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 78 (831) files added so far); re-opening (prior size: 6045.9 KB)
+0057.313 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 900 files added (on-disk size: 7498.3 KB)
+0057.826 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.7 MB, 103 (934) files added so far); re-opening (prior size: 7498.3 KB)
+0059.946 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1000 files added (on-disk size: 9919.6 KB)
+0061.380 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1100 files added (on-disk size: 9919.6 KB)
+0061.791 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1200 files added (on-disk size: 9919.6 KB)
+0061.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 MB, 267 (1201) files added so far); re-opening (prior size: 9919.6 KB)
+0064.168 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1300 files added (on-disk size: 11970 KB)
+0064.303 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1400 files added (on-disk size: 11970 KB)
+0064.430 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1500 files added (on-disk size: 11970 KB)
+0064.559 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1600 files added (on-disk size: 11970 KB)
+0064.672 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1700 files added (on-disk size: 11970 KB)
+0064.702 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19 MB, 7174 files batched, 501 (1702) added so far); re-opening (prior size: 11970 KB)
+0075.038 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1800 files added (on-disk size: 17222.4 KB)
+0075.211 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 1900 files added (on-disk size: 17222.4 KB)
+0075.366 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2000 files added (on-disk size: 17222.4 KB)
+0075.513 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2100 files added (on-disk size: 17222.4 KB)
+0075.637 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2200 files added (on-disk size: 17222.4 KB)
+0075.677 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.9 MB, 7174 files batched, 501 (2203) added so far); re-opening (prior size: 17222.4 KB)
+0080.488 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2300 files added (on-disk size: 17933.4 KB)
+0080.615 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2400 files added (on-disk size: 17933.4 KB)
+0080.907 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2500 files added (on-disk size: 17933.4 KB)
+0082.339 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2600 files added (on-disk size: 17933.4 KB)
+0082.615 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2700 files added (on-disk size: 17933.4 KB)
+0082.725 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.5 MB, 7174 files batched, 501 (2704) added so far); re-opening (prior size: 17933.4 KB)
+0088.741 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2800 files added (on-disk size: 19658.9 KB)
+0088.923 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 98 (2802) files added so far); re-opening (prior size: 19658.9 KB)
+0092.843 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 36 (2838) files added so far); re-opening (prior size: 20375.9 KB)
+0095.933 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 24 (2862) files added so far); re-opening (prior size: 20476.9 KB)
+0098.873 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 23 (2885) files added so far); re-opening (prior size: 20531.9 KB)
+0101.244 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 2900 files added (on-disk size: 20574.2 KB)
+0101.945 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 26 (2911) files added so far); re-opening (prior size: 20574.2 KB)
+0105.720 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 12 (2923) files added so far); re-opening (prior size: 20635.5 KB)
+0108.827 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 55 (2978) files added so far); re-opening (prior size: 20660.7 KB)
+0110.667 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3000 files added (on-disk size: 20815.5 KB)
+0112.866 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 103 (3081) files added so far); re-opening (prior size: 20815.5 KB)
+0114.794 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3100 files added (on-disk size: 21136.2 KB)
+0116.818 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 96 (3177) files added so far); re-opening (prior size: 21136.2 KB)
+0118.349 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3200 files added (on-disk size: 21408 KB)
+0119.869 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 72 (3249) files added so far); re-opening (prior size: 21408 KB)
+0122.215 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3300 files added (on-disk size: 21629.8 KB)
+0122.829 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 68 (3317) files added so far); re-opening (prior size: 21629.8 KB)
+0124.660 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3400 files added (on-disk size: 21751.1 KB)
+0125.834 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5 MB, 182 (3499) files added so far); re-opening (prior size: 21751.1 KB)
+0127.404 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3500 files added (on-disk size: 23230 KB)
+0129.729 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3600 files added (on-disk size: 23230 KB)
+0129.844 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 103 (3602) files added so far); re-opening (prior size: 23230 KB)
+0132.836 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 74 (3676) files added so far); re-opening (prior size: 23466 KB)
+0134.389 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3700 files added (on-disk size: 23553.6 KB)
+0135.819 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 99 (3775) files added so far); re-opening (prior size: 23553.6 KB)
+0137.320 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3800 files added (on-disk size: 23624.8 KB)
+0138.079 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 3900 files added (on-disk size: 23624.8 KB)
+0138.529 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4000 files added (on-disk size: 23624.8 KB)
+0138.815 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 271 (4046) files added so far); re-opening (prior size: 23624.8 KB)
+0143.829 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4100 files added (on-disk size: 24212.3 KB)
+0145.457 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4200 files added (on-disk size: 24212.3 KB)
+0145.833 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 194 (4240) files added so far); re-opening (prior size: 24212.3 KB)
+0146.938 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4300 files added (on-disk size: 24399.1 KB)
+0147.922 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4400 files added (on-disk size: 24399.1 KB)
+0148.817 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 216 (4456) files added so far); re-opening (prior size: 24399.1 KB)
+0152.027 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4500 files added (on-disk size: 24626.2 KB)
+0153.900 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 139 (4595) files added so far); re-opening (prior size: 24626.2 KB)
+0155.298 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4600 files added (on-disk size: 24810.6 KB)
+0156.856 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 44 (4639) files added so far); re-opening (prior size: 24810.6 KB)
+0159.837 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 56 (4695) files added so far); re-opening (prior size: 25086.1 KB)
+0161.245 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4700 files added (on-disk size: 25373.2 KB)
+0163.827 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.8 MB, 37 (4732) files added so far); re-opening (prior size: 25373.2 KB)
+0166.990 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4800 files added (on-disk size: 26352.3 KB)
+0167.817 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 94 (4826) files added so far); re-opening (prior size: 26352.3 KB)
+0170.655 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 4900 files added (on-disk size: 26490.3 KB)
+0171.816 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 146 (4972) files added so far); re-opening (prior size: 26490.3 KB)
+0173.396 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5000 files added (on-disk size: 26628.8 KB)
+0174.817 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 69 (5041) files added so far); re-opening (prior size: 26628.8 KB)
+0177.549 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5100 files added (on-disk size: 26820.1 KB)
+0178.817 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 75 (5116) files added so far); re-opening (prior size: 26820.1 KB)
+0181.856 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 32 (5148) files added so far); re-opening (prior size: 26943 KB)
+0184.834 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 49 (5197) files added so far); re-opening (prior size: 26977.9 KB)
+0185.856 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5200 files added (on-disk size: 27027.6 KB)
+0187.822 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 57 (5254) files added so far); re-opening (prior size: 27027.6 KB)
+0189.453 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5300 files added (on-disk size: 27086.4 KB)
+0190.828 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 138 (5392) files added so far); re-opening (prior size: 27086.4 KB)
+0192.290 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5400 files added (on-disk size: 27225.4 KB)
+0194.838 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 86 (5478) files added so far); re-opening (prior size: 27225.4 KB)
+0196.778 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5500 files added (on-disk size: 27779.9 KB)
+0197.824 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 81 (5559) files added so far); re-opening (prior size: 27779.9 KB)
+0200.622 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5600 files added (on-disk size: 28264.3 KB)
+0201.821 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 64 (5623) files added so far); re-opening (prior size: 28264.3 KB)
+0205.817 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 16 (5639) files added so far); re-opening (prior size: 28876.7 KB)
+0208.833 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 18 (5657) files added so far); re-opening (prior size: 28922.3 KB)
+0210.706 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5700 files added (on-disk size: 28968 KB)
+0211.989 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 101 (5758) files added so far); re-opening (prior size: 28968 KB)
+0214.899 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5800 files added (on-disk size: 29681.4 KB)
+0215.856 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 75 (5833) files added so far); re-opening (prior size: 29681.4 KB)
+0219.076 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 5900 files added (on-disk size: 29832.9 KB)
+0219.825 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 85 (5918) files added so far); re-opening (prior size: 29832.9 KB)
+0222.838 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 31 (5949) files added so far); re-opening (prior size: 29950.4 KB)
+0225.652 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6000 files added (on-disk size: 30003.9 KB)
+0225.819 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 54 (6003) files added so far); re-opening (prior size: 30003.9 KB)
+0229.856 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 84 (6087) files added so far); re-opening (prior size: 30082.2 KB)
+0231.486 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6100 files added (on-disk size: 30202.1 KB)
+0232.837 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 50 (6137) files added so far); re-opening (prior size: 30202.1 KB)
+0235.822 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 47 (6184) files added so far); re-opening (prior size: 30323.7 KB)
+0237.565 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6200 files added (on-disk size: 30458.7 KB)
+0238.848 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 44 (6228) files added so far); re-opening (prior size: 30458.7 KB)
+0241.833 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 38 (6266) files added so far); re-opening (prior size: 30568.5 KB)
+0244.364 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6300 files added (on-disk size: 30663 KB)
+0245.815 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 68 (6334) files added so far); re-opening (prior size: 30663 KB)
+0248.823 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 57 (6391) files added so far); re-opening (prior size: 30828 KB)
+0250.664 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6400 files added (on-disk size: 30947.8 KB)
+0251.833 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 49 (6440) files added so far); re-opening (prior size: 30947.8 KB)
+0254.610 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6500 files added (on-disk size: 31021.2 KB)
+0254.827 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 69 (6509) files added so far); re-opening (prior size: 31021.2 KB)
+0256.332 (0) The scheduled resumption is within 45 seconds - will reschedule
+0256.415 (0) Rescheduling resumption 1: moving to 345 seconds from now (1601049948)
+0256.570 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0258.615 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6600 files added (on-disk size: 32345.6 KB)
+0258.819 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 99 (6608) files added so far); re-opening (prior size: 32345.6 KB)
+0262.839 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 58 (6666) files added so far); re-opening (prior size: 34458.1 KB)
+0265.621 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6700 files added (on-disk size: 34796.7 KB)
+0266.835 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 86 (6752) files added so far); re-opening (prior size: 34796.7 KB)
+0270.041 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6800 files added (on-disk size: 35185.7 KB)
+0270.822 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 69 (6821) files added so far); re-opening (prior size: 35185.7 KB)
+0273.831 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 51 (6872) files added so far); re-opening (prior size: 35366.6 KB)
+0276.040 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 6900 files added (on-disk size: 35479.4 KB)
+0277.838 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 84 (6956) files added so far); re-opening (prior size: 35479.4 KB)
+0279.959 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 7000 files added (on-disk size: 35582 KB)
+0281.821 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 103 (7059) files added so far); re-opening (prior size: 35582 KB)
+0285.030 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip.tmp: 7100 files added (on-disk size: 35955.3 KB)
+0285.820 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 78 (7137) files added so far); re-opening (prior size: 35955.3 KB)
+0289.724 (0) Created plugins zip (0) - 36162.9 KB in 288.7 s (125.2 KB/s) (sha1: 5cde63348b86b589b2c75cd44d521e6a69ecf73d, sha256: f200f9eba42ec4957abcec0c077377648a5e22cc5c84b4869fa31b08b9d46470)
+0289.847 (0) Beginning creation of dump of themes (split every: 400 MB)
+0290.321 (0) Total entities for the zip file: 86 directories, 450 files (0 skipped as non-modified), 8.8 MB
+0292.838 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 73 (73) files added so far); re-opening (prior size: 0 KB)
+0293.920 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-themes.zip.tmp: 100 files added (on-disk size: 273.9 KB)
+0295.820 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 110 (183) files added so far); re-opening (prior size: 273.9 KB)
+0297.251 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-themes.zip.tmp: 200 files added (on-disk size: 1353.1 KB)
+0298.833 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 48 (231) files added so far); re-opening (prior size: 1353.1 KB)
+0299.589 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-themes.zip.tmp: 300 files added (on-disk size: 1954.3 KB)
+0299.727 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-themes.zip.tmp: 400 files added (on-disk size: 1954.3 KB)
+0302.567 (0) Created themes zip (0) - 4193.5 KB in 12.7 s (330.4 KB/s) (sha1: 4a9a3f0c0edfd0ab1860bcfe9d256d55d5b5ba5c, sha256: 1a6906beea2701c3376ee8071a4d01025ef282e5fb6c186cadc4e286f227deec)
+0302.634 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0302.662 (0) Looking for candidates to backup in: C:\Users\pasteli\Local Sites\kanakevo\app\public/wp-content/uploads
+0302.689 (0) finding files: 2016: adding to list (1)
+0302.717 (0) finding files: 2017: adding to list (2)
+0302.743 (0) finding files: 2019: adding to list (3)
+0302.773 (0) finding files: 2020: adding to list (4)
+0302.799 (0) finding files: apollo13_framework_files: adding to list (5)
+0302.828 (0) finding files: apollo13_images: adding to list (6)
+0302.854 (0) finding files: apollo13_tmp: adding to list (7)
+0302.884 (0) finding files: elementor: adding to list (8)
+0302.909 (0) finding files: wc-logs: adding to list (9)
+0302.939 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (10)
+0303.023 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (11)
+0303.101 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (12)
+0303.187 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (13)
+0303.241 (0) finding files: woocommerce-placeholder.png: adding to list (14)
+0303.275 (0) finding files: woocommerce_uploads: adding to list (15)
+0303.305 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0303.752 (0) Total entities for the zip file: 19 directories, 508 files (0 skipped as non-modified), 70.9 MB
+0305.846 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (24.8 MB, 54 (54) files added so far); re-opening (prior size: 0 KB)
+0309.010 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-uploads.zip.tmp: 100 files added (on-disk size: 25403.1 KB)
+0309.838 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.5 MB, 76 (130) files added so far); re-opening (prior size: 25403.1 KB)
+0312.832 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.4 MB, 51 (181) files added so far); re-opening (prior size: 31095 KB)
+0313.997 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-uploads.zip.tmp: 200 files added (on-disk size: 35655.8 KB)
+0315.829 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 58 (239) files added so far); re-opening (prior size: 35655.8 KB)
+0316.891 (0) The time we have been running (316.8) is approaching the resumption interval (345) - increasing resumption interval to 347
+0319.821 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.8 MB, 57 (296) files added so far); re-opening (prior size: 40239.5 KB)
+0320.909 (0) The time we have been running (320.8) is approaching the resumption interval (347) - increasing resumption interval to 351
+0321.410 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-uploads.zip.tmp: 300 files added (on-disk size: 50271.8 KB)
+0323.841 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.9 MB, 55 (351) files added so far); re-opening (prior size: 50271.8 KB)
+0325.548 (0) The time we have been running (325.4) is approaching the resumption interval (351) - increasing resumption interval to 356
+0327.442 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-uploads.zip.tmp: 400 files added (on-disk size: 56321.6 KB)
+0327.885 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12.4 MB, 57 (408) files added so far); re-opening (prior size: 56321.6 KB)
+0328.898 (0) The time we have been running (328.8) is approaching the resumption interval (356) - increasing resumption interval to 359
+0331.825 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 57 (465) files added so far); re-opening (prior size: 69062.6 KB)
+0333.363 (0) The time we have been running (333.2) is approaching the resumption interval (359) - increasing resumption interval to 364
+0334.753 (0) Zip: backup_2020-09-25-1555_kanakevo_e0df128172ac-uploads.zip.tmp: 500 files added (on-disk size: 71099.1 KB)
+0336.869 (0) The time we have been running (336.7) is approaching the resumption interval (364) - increasing resumption interval to 367
+0338.401 (0) Created uploads zip (0) - 72633.8 KB in 35.1 s (2071.5 KB/s) (sha1: b1924a2522037686689bb869b94273d5b324dbfe, sha256: 26a3fe22e6be158931cd7902703b1e49d4ef07f1f483de7b61343e40dea7bfd7)
+0338.466 (0) Beginning backup of other directories found in the content directory (index: 0)
+0338.497 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0338.522 (0) Looking for candidates to backup in: C:\Users\pasteli\Local Sites\kanakevo\app\public/wp-content
+0338.562 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0338.629 (0) finding files: index.php: adding to list (1)
+0338.654 (0) finding files: mu-plugins: adding to list (2)
+0338.683 (0) finding files: plugins: skipping: this is the plugins directory
+0338.721 (0) finding files: themes: skipping: this is the themes directory
+0338.750 (0) finding files: updraft: skipping: this is the updraft directory
+0338.776 (0) finding files: upgrade: skipping: excluded by options
+0338.809 (0) finding files: uploads: skipping: this is the uploads directory
+0338.897 (0) Total entities for the zip file: 1 directories, 3 files (0 skipped as non-modified), 0 MB
+0339.253 (0) The time we have been running (339.1) is approaching the resumption interval (367) - increasing resumption interval to 370
+0339.492 (0) Created others zip (0) - 2.7 KB in 0.6 s (4.2 KB/s) (sha1: 8e80eb7babb326223565d743197f3996985406e7, sha256: f1146522791c2a5bb3a193a37435d009d274913c8cbead1e4baf55c915d11479)
+0339.629 (0) Saving backup status to database (elements: 8)
+0339.724 (0) Beginning creation of database dump (WordPress DB)
+0339.772 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0340.003 (0) Table wp_options: Total expected rows (approximate): 422
+0340.154 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 418 in 0.13 seconds
+0340.194 (0) Table wp_options: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_options.table.gz - 81.5 KB)
+0340.368 (0) The time we have been running (340.2) is approaching the resumption interval (370) - increasing resumption interval to 371
+0340.555 (0) Table wp_users: Total expected rows (approximate): 2
+0340.592 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 2 in 0.01 seconds
+0340.640 (0) Table wp_users: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_users.table.gz - 0.6 KB)
+0340.777 (0) Table wp_usermeta: Total expected rows (approximate): 107
+0340.830 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 107 in 0.03 seconds
+0340.886 (0) Table wp_usermeta: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_usermeta.table.gz - 2.8 KB)
+0341.012 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 58
+0341.081 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 58 in 0.03 seconds
+0341.119 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_actionscheduler_actions.table.gz - 2.7 KB)
+0341.241 (0) The time we have been running (341.2) is approaching the resumption interval (371) - increasing resumption interval to 372
+0341.399 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0341.433 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0341.479 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_actionscheduler_claims.table.gz - 0.4 KB)
+0341.587 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 4
+0341.624 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 4 in 0.01 seconds
+0341.741 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0341.909 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 170
+0341.983 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 170 in 0.04 seconds
+0342.058 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_actionscheduler_logs.table.gz - 2.1 KB)
+0342.182 (0) The time we have been running (342.1) is approaching the resumption interval (372) - increasing resumption interval to 373
+0342.329 (0) Table wp_commentmeta: Total expected rows (approximate): 12
+0342.377 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 12 in 0.01 seconds
+0342.415 (0) Table wp_commentmeta: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_commentmeta.table.gz - 0.5 KB)
+0342.547 (0) Table wp_comments: Total expected rows (approximate): 8
+0342.661 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 8 in 0.01 seconds
+0342.704 (0) Table wp_comments: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_comments.table.gz - 1.5 KB)
+0342.871 (0) Table wp_links: Total expected rows (approximate): 0
+0342.907 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0342.956 (0) Table wp_links: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_links.table.gz - 0.5 KB)
+0343.138 (0) Table wp_postmeta: Total expected rows (approximate): 3290
+0343.736 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 3290 in 0.56 seconds
+0343.775 (0) Table wp_postmeta: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_postmeta.table.gz - 176.6 KB)
+0343.931 (0) The time we have been running (343.8) is approaching the resumption interval (373) - increasing resumption interval to 374
+0344.127 (0) Table wp_posts: Total expected rows (approximate): 234
+0344.269 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 234 in 0.11 seconds
+0344.328 (0) Table wp_posts: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_posts.table.gz - 88.3 KB)
+0344.446 (0) The time we have been running (344.4) is approaching the resumption interval (374) - increasing resumption interval to 375
+0344.687 (0) Table wp_term_relationships: Total expected rows (approximate): 65
+0344.726 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 65 in 0.01 seconds
+0344.766 (0) Table wp_term_relationships: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_term_relationships.table.gz - 0.6 KB)
+0344.875 (0) Table wp_term_taxonomy: Total expected rows (approximate): 58
+0344.914 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 58 in 0.01 seconds
+0344.954 (0) Table wp_term_taxonomy: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_term_taxonomy.table.gz - 0.8 KB)
+0345.063 (0) Table wp_termmeta: Total expected rows (approximate): 23
+0345.102 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 23 in 0.01 seconds
+0345.175 (0) Table wp_termmeta: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_termmeta.table.gz - 0.6 KB)
+0345.310 (0) The time we have been running (345.2) is approaching the resumption interval (375) - increasing resumption interval to 376
+0345.473 (0) Table wp_terms: Total expected rows (approximate): 58
+0345.522 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 58 in 0.02 seconds
+0345.603 (0) Table wp_terms: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_terms.table.gz - 1.1 KB)
+0345.758 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 9
+0345.865 (0) Table wp_wc_category_lookup: Rows added in this batch (start page: 0; next: finished): 9 in 0.01 seconds
+0345.940 (0) Table wp_wc_category_lookup: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_category_lookup.table.gz - 0.4 KB)
+0346.070 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 4
+0346.108 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (start page: 0; next: finished): 4 in 0.01 seconds
+0346.149 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_product_meta_lookup.table.gz - 0.6 KB)
+0346.273 (0) The time we have been running (346.2) is approaching the resumption interval (376) - increasing resumption interval to 377
+0346.434 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0346.465 (0) Table wp_wc_reserved_stock: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0346.496 (0) Table wp_wc_reserved_stock: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_reserved_stock.table.gz - 0.3 KB)
+0346.702 (0) Table wp_wc_tax_rate_classes: Total expected rows (approximate): 2
+0346.736 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0346.772 (0) Table wp_wc_tax_rate_classes: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_tax_rate_classes.table.gz - 0.4 KB)
+0346.890 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0346.924 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0346.959 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0347.078 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0347.142 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0347.250 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0347.414 (0) The time we have been running (347.3) is approaching the resumption interval (377) - increasing resumption interval to 378
+0347.620 (0) Table wp_wc_admin_note_actions: Total expected rows (approximate): 11
+0347.690 (0) Table wp_wc_admin_note_actions: Rows added in this batch (start page: 0; next: finished): 11 in 0.01 seconds
+0347.735 (0) Table wp_wc_admin_note_actions: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_admin_note_actions.table.gz - 1 KB)
+0347.843 (0) Table wp_wc_admin_notes: Total expected rows (approximate): 10
+0347.882 (0) Table wp_wc_admin_notes: Rows added in this batch (start page: 0; next: finished): 10 in 0.01 seconds
+0347.925 (0) Table wp_wc_admin_notes: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_admin_notes.table.gz - 1.8 KB)
+0348.063 (0) Table wp_wc_customer_lookup: Total expected rows (approximate): 0
+0348.100 (0) Table wp_wc_customer_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0348.163 (0) Table wp_wc_customer_lookup: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_customer_lookup.table.gz - 0.5 KB)
+0348.303 (0) The time we have been running (348.2) is approaching the resumption interval (378) - increasing resumption interval to 379
+0348.439 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0348.560 (0) Table wp_wc_download_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0348.849 (0) Table wp_wc_download_log: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0349.178 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0349.248 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0349.313 (0) Table wp_wc_order_coupon_lookup: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0349.443 (0) The time we have been running (349.4) is approaching the resumption interval (379) - increasing resumption interval to 380
+0349.875 (0) Table wp_wc_order_product_lookup: Total expected rows (approximate): 0
+0349.922 (0) Table wp_wc_order_product_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0350.043 (0) Table wp_wc_order_product_lookup: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_order_product_lookup.table.gz - 0.4 KB)
+0350.160 (0) The time we have been running (350.1) is approaching the resumption interval (380) - increasing resumption interval to 381
+0350.323 (0) Table wp_wc_order_stats: Total expected rows (approximate): 0
+0350.360 (0) Table wp_wc_order_stats: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0350.404 (0) Table wp_wc_order_stats: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_order_stats.table.gz - 0.5 KB)
+0350.651 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0350.687 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0350.727 (0) Table wp_wc_order_tax_lookup: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_order_tax_lookup.table.gz - 0.4 KB)
+0350.873 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0350.907 (0) Table wp_wc_webhooks: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0350.938 (0) Table wp_wc_webhooks: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0351.097 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0351.136 (0) Table wp_woocommerce_api_keys: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0351.185 (0) Table wp_woocommerce_api_keys: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0351.322 (0) The time we have been running (351.2) is approaching the resumption interval (381) - increasing resumption interval to 382
+0351.429 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 1
+0351.465 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0351.512 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.5 KB)
+0351.745 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0351.793 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0351.845 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0352.022 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0352.046 (0) Table wp_woocommerce_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0352.076 (0) Table wp_woocommerce_log: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0352.189 (0) The time we have been running (352.1) is approaching the resumption interval (382) - increasing resumption interval to 383
+0352.315 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0352.363 (0) Table wp_woocommerce_order_items: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0352.395 (0) Table wp_woocommerce_order_items: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_order_items.table.gz - 0.4 KB)
+0352.503 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0352.607 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0352.690 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0352.887 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0352.910 (0) Table wp_woocommerce_sessions: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0352.945 (0) Table wp_woocommerce_sessions: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_sessions.table.gz - 0.8 KB)
+0353.042 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0353.066 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0353.107 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0353.196 (0) The time we have been running (353.1) is approaching the resumption interval (383) - increasing resumption interval to 384
+0353.363 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0353.394 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0353.442 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0353.651 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0353.690 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0353.738 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0353.838 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0353.862 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0353.893 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0354.060 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0354.087 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0354.126 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0354.224 (0) The time we have been running (354.2) is approaching the resumption interval (384) - increasing resumption interval to 385
+0354.352 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 33
+0354.389 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (start page: 0; next: finished): 33 in 0.01 seconds
+0354.425 (0) Table wp_wpforms_tasks_meta: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wpforms_tasks_meta.table.gz - 0.8 KB)
+0354.614 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (approximate): 6
+0354.658 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (start page: 0; next: finished): 6 in 0.01 seconds
+0354.703 (0) Table wp_wpmailsmtp_tasks_meta: finishing file (backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wpmailsmtp_tasks_meta.table.gz - 0.5 KB)
+0354.753 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_options.table.gz (1/45): adding to final database dump
+0354.820 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_users.table.gz (2/45): adding to final database dump
+0354.846 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_usermeta.table.gz (3/45): adding to final database dump
+0354.870 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_actionscheduler_actions.table.gz (4/45): adding to final database dump
+0354.893 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_actionscheduler_claims.table.gz (5/45): adding to final database dump
+0354.924 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_actionscheduler_groups.table.gz (6/45): adding to final database dump
+0354.969 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_actionscheduler_logs.table.gz (7/45): adding to final database dump
+0355.015 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_commentmeta.table.gz (8/45): adding to final database dump
+0355.046 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_comments.table.gz (9/45): adding to final database dump
+0355.079 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_links.table.gz (10/45): adding to final database dump
+0355.112 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_postmeta.table.gz (11/45): adding to final database dump
+0355.307 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_posts.table.gz (12/45): adding to final database dump
+0355.499 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_term_relationships.table.gz (13/45): adding to final database dump
+0355.545 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_term_taxonomy.table.gz (14/45): adding to final database dump
+0355.637 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_termmeta.table.gz (15/45): adding to final database dump
+0355.688 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_terms.table.gz (16/45): adding to final database dump
+0355.708 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_category_lookup.table.gz (17/45): adding to final database dump
+0355.733 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_product_meta_lookup.table.gz (18/45): adding to final database dump
+0355.754 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_reserved_stock.table.gz (19/45): adding to final database dump
+0355.777 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_tax_rate_classes.table.gz (20/45): adding to final database dump
+0355.797 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_order_itemmeta.table.gz (21/45): adding to final database dump
+0355.822 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_payment_tokenmeta.table.gz (22/45): adding to final database dump
+0355.842 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_admin_note_actions.table.gz (23/45): adding to final database dump
+0355.870 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_admin_notes.table.gz (24/45): adding to final database dump
+0355.898 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_customer_lookup.table.gz (25/45): adding to final database dump
+0355.919 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_download_log.table.gz (26/45): adding to final database dump
+0355.942 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_order_coupon_lookup.table.gz (27/45): adding to final database dump
+0355.964 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_order_product_lookup.table.gz (28/45): adding to final database dump
+0355.988 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_order_stats.table.gz (29/45): adding to final database dump
+0356.008 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_order_tax_lookup.table.gz (30/45): adding to final database dump
+0356.031 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wc_webhooks.table.gz (31/45): adding to final database dump
+0356.063 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_api_keys.table.gz (32/45): adding to final database dump
+0356.087 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_attribute_taxonomies.table.gz (33/45): adding to final database dump
+0356.107 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (34/45): adding to final database dump
+0356.130 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_log.table.gz (35/45): adding to final database dump
+0356.151 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_order_items.table.gz (36/45): adding to final database dump
+0356.174 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_payment_tokens.table.gz (37/45): adding to final database dump
+0356.195 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_sessions.table.gz (38/45): adding to final database dump
+0356.219 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_shipping_zone_locations.table.gz (39/45): adding to final database dump
+0356.239 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_shipping_zone_methods.table.gz (40/45): adding to final database dump
+0356.263 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_shipping_zones.table.gz (41/45): adding to final database dump
+0356.285 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_tax_rate_locations.table.gz (42/45): adding to final database dump
+0356.308 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_woocommerce_tax_rates.table.gz (43/45): adding to final database dump
+0356.329 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wpforms_tasks_meta.table.gz (44/45): adding to final database dump
+0356.354 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db-table-wp_wpmailsmtp_tasks_meta.table.gz (45/45): adding to final database dump
+0356.391 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db.gz: finished writing out complete database file (336 KB)
+0356.663 (0) Total database tables backed up: 45 (backup_2020-09-25-1555_kanakevo_e0df128172ac-db.gz, size: 371999, sha1: 85a8335298bc1ffe1098ba9f01182de3eaa9502b, sha256: 7d2e8cab40081ad7504dc95d999b37f25521a962e6d667254ed0dae18e4324d7)
+0357.005 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0357.025 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0357.050 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0357.070 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-others.zip: others: This file has not yet been successfully uploaded: will queue
+0357.093 (0) backup_2020-09-25-1555_kanakevo_e0df128172ac-db.gz: db: This file has not yet been successfully uploaded: will queue
+0357.114 (0) Saving backup history. Total backup size: 110.7 MB
+0357.158 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0357.226 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0357.247 (0) No remote despatch: user chose no remote backup service
+0357.270 (0) Recording as successfully uploaded: backup_2020-09-25-1555_kanakevo_e0df128172ac-plugins.zip
+0357.315 (0) Recording as successfully uploaded: backup_2020-09-25-1555_kanakevo_e0df128172ac-themes.zip
+0357.359 (0) Recording as successfully uploaded: backup_2020-09-25-1555_kanakevo_e0df128172ac-uploads.zip
+0357.425 (0) Recording as successfully uploaded: backup_2020-09-25-1555_kanakevo_e0df128172ac-others.zip
+0357.470 (0) Recording as successfully uploaded: backup_2020-09-25-1555_kanakevo_e0df128172ac-db.gz
+0357.537 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0357.559 (0) Number of backup sets in history: 2; groups (db): 1
+0357.579 (0) Examining (for databases) backup set with group_id=0, nonce=e0df128172ac, datestamp=1601049347 (Sep 25 2020 15:55:47)
+0357.602 (0) This backup set is the backup set just made, so will not be deleted.
+0357.603 (0) Examining (for databases) backup set with group_id=0, nonce=7cc463924d7a, datestamp=1601047197 (Sep 25 2020 15:19:57)
+0357.603 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0357.624 (0) Number of backup sets in history: 2; groups (files): 1
+0357.647 (0) Examining (for files) backup set with nonce=e0df128172ac, datestamp=1601049347 (Sep 25 2020 15:55:47)
+0357.647 (0) This backup set is the backup set just made, so will not be deleted.
+0357.668 (0) This backup set is the backup set just made, so will not be deleted.
+0357.669 (0) This backup set is the backup set just made, so will not be deleted.
+0357.670 (0) This backup set is the backup set just made, so will not be deleted.
+0357.670 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0357.691 (0) Examining (for files) backup set with nonce=7cc463924d7a, datestamp=1601047197 (Sep 25 2020 15:19:57)
+0357.691 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0357.692 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0357.740 (0) Resume backup (e0df128172ac, 0): finish run
+0357.801 (0) Decremented the semaphore (fd) by 1
+0357.845 (0) Semaphore (fd) unlocked
+0357.868 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0357.938 (0) No email will/can be sent - the user has not configured an email address.
+0357.968 (0) The backup apparently succeeded and is now complete

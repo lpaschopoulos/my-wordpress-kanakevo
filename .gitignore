@@ -1,0 +1,17 @@
+# Αγνοούμε τα uploads (εικόνες/media) για να μην μπλοκάρει το GitHub λόγω μεγέθους
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+
+# Αρχεία συστήματος και IDEs
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
